@@ -1,0 +1,182 @@
+.mufa {
+	color: red;
+}
+.image{
+  width: 300px;
+  height: 150px;
+}
+* {
+	background-color: black;
+
+  .card{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+	.container {
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+
+		.inputs1 {
+			margin-top: 30px;
+			width: 230px;
+			height: 30px;
+			border-radius: 8px;
+			border: 2px solid rgba(129, 5, 5, 0.755);
+			box-shadow: 2px 5px 25px 3px red;
+			background-color: rgba(29, 2, 2, 0);
+			text-align: center;
+		}
+		.inputs2 {
+			margin-top: 50px;
+			width: 230px;
+			height: 30px;
+			border-radius: 8px;
+			border: 2px solid rgba(129, 5, 5, 0.755);
+			box-shadow: 2px 5px 25px 3px red;
+			background-color: rgba(29, 2, 2, 0);
+			text-align: center;
+		}
+		.inputs3 {
+			margin-top: 60px;
+			width: 230px;
+			height: 30px;
+			border-radius: 8px;
+			border: 2px solid rgba(129, 5, 5, 0.755);
+			box-shadow: 2px 5px 25px 3px red;
+			background-color: rgba(29, 2, 2, 0);
+			text-align: center;
+		}
+    .btn{
+      width: 100px;
+      height: 25px;
+      border: 2px solid rgba(129, 5, 5, 0.755);
+      box-shadow: 2px 5px 20px 3px red;
+    }
+    .btn:hover{
+      transition: 1s;
+      width: 110px;
+      border-radius: 10px;
+      height: 30px;
+      background-color: rgb(128, 17, 17);
+    }
+    .btn2{
+      width: 100px;
+      margin-top: 15px;
+      height: 25px;
+      border: 2px solid rgba(129, 5, 5, 0.755);
+      box-shadow: 2px 5px 25px 3px red;
+    }
+    .btn2:hover{
+      transition: 1s;
+      width: 110px;
+      border-radius: 10px;
+      height: 30px;
+      background-color: rgb(128, 17, 17);
+    }
+
+    .input1{
+      margin-top: 30px;
+			width: 230px;
+			height: 30px;
+			border-radius: 8px;
+			border: 2px solid rgba(154, 194, 8, 0.755);
+			box-shadow: 2px 5px 25px 3px red;
+			background-color: rgba(29, 2, 2, 0);
+			text-align: center;
+    }
+    .input2{
+      margin-top: 30px;
+			width: 230px;
+			height: 30px;
+			border-radius: 8px;
+			border: 2px solid rgba(154, 194, 8, 0.755);
+			box-shadow: 2px 5px 25px 3px red;
+			background-color: rgba(29, 2, 2, 0);
+			text-align: center;
+    }
+    .input3{
+      margin-top: 30px;
+			width: 230px;
+			height: 30px;
+			border-radius: 8px;
+			border: 2px solid rgba(154, 194, 8, 0.755);
+			box-shadow: 2px 5px 25px 3px red;
+			background-color: rgba(29, 2, 2, 0);
+			text-align: center;
+    }
+    .button1{
+      width: 100px;
+      margin-top: 15px;
+      height: 25px;
+      border: 2px solid rgba(129, 5, 5, 0.755);
+      box-shadow: 2px 5px 25px 3px red;
+    }
+    .button1:hover{
+      transition: 1s;
+      width: 110px;
+      border-radius: 10px;
+      height: 30px;
+      background-color: rgb(128, 17, 17);
+    }
+    .button2{
+      width: 100px;
+      margin-top: 15px;
+      height: 25px;
+      border: 2px solid rgba(129, 5, 5, 0.755);
+      box-shadow: 2px 5px 25px 3px red;
+    }
+    .button2:hover{
+      transition: 1s;
+      width: 110px;
+      border-radius: 10px;
+      height: 30px;
+      background-color: rgb(128, 17, 17);
+    }
+    .crd{
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      .buttons1{
+        width: 100px;
+        margin-top: 15px;
+        height: 25px;
+        border: 2px solid rgba(129, 5, 5, 0.755);
+        box-shadow: 2px 5px 25px 3px red;
+      }
+      .buttons1:hover{
+        transition: 1s;
+        width: 110px;
+        border-radius: 10px;
+        height: 30px;
+        background-color: rgb(128, 17, 17);
+      }
+      .buttons2{
+        width: 100px;
+        margin-top: 15px;
+        height: 25px;
+        border: 2px solid rgba(129, 5, 5, 0.755);
+        box-shadow: 2px 5px 25px 3px red;
+      }
+      .buttons2:hover{
+        transition: 1s;
+        margin-top: 20px;
+        width: 110px;
+        border-radius: 10px;
+        height: 30px;
+        background-color: rgb(128, 17, 17);
+      }
+    .count{
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+  }
+	}
+}
